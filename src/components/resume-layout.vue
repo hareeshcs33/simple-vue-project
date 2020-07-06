@@ -131,7 +131,12 @@
 </div>
 </template>
 <script>
+import ResumeLayout from '../js/resume-layout';
+
 export default {
+    mixins: [
+        ResumeLayout,
+    ],
     data(){
         return {
         }

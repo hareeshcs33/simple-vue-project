@@ -49,11 +49,11 @@ ul {
   padding: 0;
 }
 h1, h2, h3 {
-    font-weight: 700;
-    line-height: 1.2;
-    color: #343a40;
+  font-weight: 700;
+  line-height: 1.2;
+  color: #343a40;
 }
 p {
-      font-family: "Muli", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-family: "Muli", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
 </style>

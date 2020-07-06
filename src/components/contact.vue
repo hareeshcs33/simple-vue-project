@@ -1,11 +1,8 @@
 <template>
   <div class="container">
     <section>
-      <div>
         <div class="row">
-          <div class="col-sm-12">
-            <div class="row">
-              <div class="col-sm-8 col-sm-offset-2">
+          <div class="col-sm-8 col-sm-offset-2">
                 <div>
                   <h2>CONTACT US</h2>
                 </div>
@@ -56,10 +53,7 @@
                   </div>
                 </form>
               </div>
-            </div>
-          </div>
         </div>
-      </div>
     </section>
   </div>
 </template>
