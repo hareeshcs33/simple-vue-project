@@ -36,7 +36,10 @@ export default {
   font-family: "Saira Extra Condensed", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  color: #2c3e50;
+  color: #6c757d;
+  font-weight: 400;
+  line-height: 1.5;
+  font-size: 16px;
 }
 .cta-300 {
   min-width: 300px;
@@ -44,5 +47,13 @@ export default {
 ul {
   list-style: none;
   padding: 0;
+}
+h1, h2, h3 {
+    font-weight: 700;
+    line-height: 1.2;
+    color: #343a40;
+}
+p {
+      font-family: "Muli", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
 </style>
