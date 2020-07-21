@@ -26,8 +26,6 @@
                     <h3 class="sub-title-name mb-3">#329-1, Nandagokula, 5th cross, Shanabag layout, Yamalur Bengaluru – 560037
                         Karnataka, India
                         <br/>
-                        <div><a href="tel:+91 7259950413">+91 7259950413</a></div>
-                        <span><a href="mailto:hareeshcs33@gmail.com">hareeshcs33@gmail.com</a></span>
                     </h3>
                     <p class="lead">Frontend developer with over 2 plus years of experience developing
                         Web Applications.
